@@ -1,0 +1,2 @@
+# hello-git
+zadanie laby
